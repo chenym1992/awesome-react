@@ -7,4 +7,4 @@
 - [Headlessui](https://headlessui.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social)](https://github.com/tailwindlabs/headlessui)
   > Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Material-ui](https://mui.com/core/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/mui/material-ui?style=social)](https://github.com/mui/material-ui)
-  > Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+  > MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
