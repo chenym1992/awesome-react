@@ -1,2 +1,2 @@
-# awesome-react
-🎉 A curated list of  React component
+# React component
+> 🎉 A curated list of  React component
