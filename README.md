@@ -1,5 +1,5 @@
-# React component
-> 🎉 A curated list of  React component
+# Awesome React
+> A curated list of awesome things related to React.js
 
 ## UI Library
 - [Ant-design](https://ant.design/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/ant-design/ant-design?style=social)](https://github.com/ant-design/ant-design)
