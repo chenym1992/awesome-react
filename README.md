@@ -13,3 +13,7 @@
 ### 🍇Toast
 - [React-hot-toast](https://mui.com/core/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social)](https://react-hot-toast.com/)
   > Smoking Hot React Notifications 🔥
+
+### 🍈Icons
+- [React-icons](https://react-icons.github.io/react-icons/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/react-icons/react-icons?style=social)](https://react-icons.github.io/react-icons/)
+  > svg react icons of popular icon packs
