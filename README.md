@@ -20,7 +20,7 @@
 
 ### 🍇Toast
 
-- [React-hot-toast](https://react-hot-toast.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social)](https://react-hot-toast.com/)
+- [React-hot-toast](https://react-hot-toast.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social)](https://github.com/timolins/react-hot-toast)
   > Smoking Hot React Notifications 🔥
 
 ### 🍈Icons
