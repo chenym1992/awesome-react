@@ -6,6 +6,7 @@
 
 - [Nextjs](https://nextjs.org/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js)
   > Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
+
 ## UI Library
 
 - [Ant-design](https://ant.design/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/ant-design/ant-design?style=social)](https://github.com/ant-design/ant-design)
@@ -19,7 +20,7 @@
 
 ### 🍇Toast
 
-- [React-hot-toast](https://mui.com/core/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social)](https://react-hot-toast.com/)
+- [React-hot-toast](https://react-hot-toast.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social)](https://react-hot-toast.com/)
   > Smoking Hot React Notifications 🔥
 
 ### 🍈Icons
