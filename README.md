@@ -9,6 +9,10 @@
 
 ## UI Library
 
+- [tailwindcss](https://tailwindcss.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)](https://github.com/tailwindlabs/tailwindcss)
+
+  > A utility-first CSS framework for rapid UI development.
+
 - [ant-design](https://ant.design/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/ant-design/ant-design?style=social)](https://github.com/ant-design/ant-design)
   > An enterprise-class UI design language and React UI library
 - [headlessui](https://headlessui.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social)](https://github.com/tailwindlabs/headlessui)
