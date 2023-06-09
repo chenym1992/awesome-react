@@ -5,7 +5,11 @@
 ## React Framework
 
 - [nextjs](https://nextjs.org/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js)
+
   > Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
+
+- [remix](https://remix.run/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/remix-run/remix?style=social)](https://github.com/remix-run/remix)
+  > Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 ## UI Library
 
