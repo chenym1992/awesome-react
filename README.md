@@ -36,6 +36,11 @@
 - [react-icons](https://react-icons.github.io/react-icons/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/react-icons/react-icons?style=social)](https://react-icons.github.io/react-icons/)
   > svg react icons of popular icon packs
 
+### 🍉JSON View
+
+- [react-json-view](https://github.com/mac-s-g/react-json-view) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/mac-s-g/react-json-view?style=social)](https://mac-s-g.github.io/react-json-view/)
+  > JSON viewer for react
+
 ## Tools
 
 ### 🎃ClassName
