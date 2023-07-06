@@ -21,6 +21,10 @@
 
   > Unstyled, accessible components for building high‑quality design systems and web apps in React.
 
+- [shadcn/ui](https://ui.shadcn.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/shadcn/ui?style=social)](https://github.com/shadcn/ui)
+
+  > Beautifully designed components built with Radix UI and Tailwind CSS.
+
 - [ant-design](https://ant.design/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/ant-design/ant-design?style=social)](https://github.com/ant-design/ant-design)
   > An enterprise-class UI design language and React UI library
 - [headlessui](https://headlessui.com/) &nbsp;&nbsp;[![github](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social)](https://github.com/tailwindlabs/headlessui)
